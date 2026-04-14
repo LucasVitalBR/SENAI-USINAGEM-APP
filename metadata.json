@@ -1,0 +1,6 @@
+{
+  "name": "SENAI Usinagem APP",
+  "description": "Calculadora de rotação (RPM) para processos de usinagem (Torno, Fresa, Furadeira) com suporte a materiais customizados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
